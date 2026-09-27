@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path d="M8 4h48v28c0 15-11 23-24 29C19 55 8 47 8 32z" fill="#00356b"/>
+  <path d="M13 9h38v23c0 12-8.5 18.5-19 23.5C21.5 50.5 13 44 13 32z" fill="none" stroke="#f6f1e7" stroke-width="2"/>
+  <text x="32" y="40" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#f6f1e7" text-anchor="middle">CC</text>
+</svg>

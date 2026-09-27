@@ -1,0 +1,27 @@
+{
+  "inventoryPageSizes": [
+    "XS: 15 in stock",
+    "S: 8 in stock",
+    "M: Sold out",
+    "L: Sold out",
+    "XL: Sold out",
+    "XXL: 15 in stock"
+  ],
+  "inventoryReply": "The Yale Dad Crewneck is $58. Here’s what’s left in each size:\n\nXS: 15 left\nS: 8 left\nM: sold out\nL: sold out\nXL: sold out\nXXL: 15 left\n\n✓ Checked live: stock · price\n\nYale Dad Crewneck\n$58.00",
+  "categoryStartUrl": "http://127.0.0.1:5173/",
+  "categoryReply": "We have 25 T-shirts—they’re on the page now. A few worth a look:\n\n2025 Yale Vs Harvard T Shirt for The Game.\nBig Yale Tri Blend T Shirt for a large Yale wordmark on dusty coral.\nBoola Boola T Shirt for a bold, distressed graphic on navy.\n\nHave a size or color in mind?\n\n✓ Checked live: catalogue\n\nShow 25 results on the page →\n2025 Yale Vs Harvard T Shirt\n$32.00\nBig Yale Tri Blend T Shirt\n$32.00\nBoola Boola T Shirt\n$32.00",
+  "categoryUrl": "http://127.0.0.1:5173/products?view=chat",
+  "categoryHeading": "T-shirts",
+  "categoryBanner": "25 pieces matched your question. Click any card for photos, sizes and stock.",
+  "categoryCards": 25,
+  "categoryAllTees": true,
+  "cardClickHref": "/products/2025-yale-vs-harvard-t-shirt",
+  "cardClickTitle": "2025 Yale Vs Harvard T Shirt",
+  "cardClickBack": "Chat results",
+  "filterCount": "21 of 102 pieces",
+  "filterDadHidden": true,
+  "filterAllHaveL": true,
+  "sizeAnswer": "L is sold out. Find something similar in L →",
+  "altQuestion": "This is sold out in L. Anything similar in L?",
+  "altReply": "Two similar crewnecks are in stock in L, both heather gray family pieces:\n\nYale Brother Crewneck — navy Yale lettering with BROTHER beneath it.\nYale Cousin Crewneck — navy Yale, UNIVERSITY and COUSIN lettering.\n\nThese have different family labels, rather than Dad.\n\n✓ Checked live: catalogue\n\nYale Brother Crewneck\n$58.00\nYale Cousin Crewneck\n$58.00"
+}
